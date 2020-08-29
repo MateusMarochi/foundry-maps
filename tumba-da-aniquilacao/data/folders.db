@@ -1,0 +1,94 @@
+{"_id":"MDI4MDIzMzIxZTY0","name":"Capítulo 3: Moradores da cidade proibida","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3000000}
+{"_id":"MDJmMDUyYTA5NGJh","name":"Hmmm-Hmm?!","flags":{},"type":"Actor","color":"","parent":"ZDI1ZjM0MmRkMDQ5","sort":8300000}
+{"_id":"MDVjNjU2YmU2MjJj","name":"0","flags":{},"type":"Actor","color":"","parent":"Y2RmOTA1ODVmZjBm","sort":700000}
+{"_id":"MDY0Mjc4MzgxMDIy","name":"Material Suplementar","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":5800000}
+{"_id":"MDk1OTE2Mjg2YmUz","name":"Capítulo 2: A península de Chult","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2700000}
+{"_id":"MGFmYjBiYTgxYjNj","name":"15. Ruined Bazaar","flags":{},"type":"JournalEntry","color":"","parent":"MDI4MDIzMzIxZTY0","sort":3500000}
+{"_id":"MGQyMmM2MGQ5NTU5","name":"Yuan-ti","flags":{},"type":"Actor","color":"","parent":"MWNmYzVmZWY3MWQ0","sort":7400000}
+{"_id":"MTE3YzNlZWE0NDI1","name":"Construct","flags":{},"type":"JournalEntry","color":"","parent":"NDFiNjNiMDk0Njc1","sort":1000000}
+{"_id":"MTI2N2Q3MmNjZWNm","name":"Gladiadores | Pilotos","flags":{},"type":"Actor","color":"","parent":"MWNmYzVmZWY3MWQ0","sort":6500000}
+{"_id":"MTNkMGVmZDJjMTcy","name":"Puzzle Cube Handouts","flags":{},"type":"JournalEntry","color":"","parent":"OTk3M2UzYmE1NTgy","sort":3700000}
+{"_id":"MTNlNTZlNzFiYjE1","name":"Special Items","flags":{},"type":"JournalEntry","color":"","parent":"MDY0Mjc4MzgxMDIy","sort":6000000}
+{"_id":"MTczYThkZGE0MTk2","name":"Guias de Porto Nyanzaru","flags":{},"type":"JournalEntry","color":"","parent":"NGRiMjE5OTNjNDJi","sort":2400000}
+{"_id":"MWFmMzcwYmJkMGNj","name":"Chapter 2: Player Handouts","flags":{},"type":"JournalEntry","color":"","parent":"MDk1OTE2Mjg2YmUz","sort":2800000}
+{"_id":"MWNmYzVmZWY3MWQ0","name":"Criaturas e Monstros","flags":{},"type":"Actor","color":"","parent":null,"sort":6400000}
+{"_id":"MjFiYTUxNTcyODk0","name":"Ueb'Ueb'Ueb","flags":{},"type":"Actor","color":"","parent":"ZDI1ZjM0MmRkMDQ5","sort":8600000}
+{"_id":"MjNiM2RiYmE0ZDQz","name":"PDJs (RESERVAS)","flags":{},"type":"JournalEntry","color":"","parent":"ZWI1MzIzNWM1NTFm","sort":7900000}
+{"_id":"Mjg0MTFmOTJhYzM4","name":"Fiend","flags":{},"type":"JournalEntry","color":"","parent":"NDFiNjNiMDk0Njc1","sort":200000}
+{"_id":"Mjg2MWMwOTM0NWJl","name":"De outros","flags":{},"type":"Actor","color":"","parent":null,"sort":6300000}
+{"_id":"MzAxZTk5NGFiNTlj","name":"Tabaxi","flags":{},"type":"Actor","color":"","parent":"MWNmYzVmZWY3MWQ0","sort":7300000}
+{"_id":"MzBiYzhiNjRjNTk2","name":"Albino Dwarves","flags":{},"type":"Actor","color":"","parent":"MWNmYzVmZWY3MWQ0","sort":6700000}
+{"_id":"MzEzOGJjZTQxMjIx","name":"Will Smith","flags":{},"type":"Actor","color":"","parent":"ZDI1ZjM0MmRkMDQ5","sort":8700000}
+{"_id":"Mzc4MmJhNzQzYmIz","name":"Capítulo 0: Player Handouts","flags":{},"type":"JournalEntry","color":"","parent":"NmE1NDY0ZWM0OWE3","sort":1900000}
+{"_id":"MzhlZTdkYjc0ZWM5","name":"Red Wizards","flags":{},"type":"JournalEntry","color":"","parent":"MDI4MDIzMzIxZTY0","sort":3100000}
+{"_id":"NDBmZGJhMjFiMWI4","name":"Red Wizards","flags":{},"type":"Actor","color":"","parent":"YzUzZDFlMGY5YjNl","sort":3100000}
+{"_id":"NDFiNjNiMDk0Njc1","name":"Monsters","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":100000}
+{"_id":"NDc2Yjg0MTMwNjVj","name":"Capítulo 4: Fane da Serpente da Noite","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3900000}
+{"_id":"NGI4ZWY2YTlkNTQz","name":"Port Nyanzaru Guides","flags":{},"type":"JournalEntry","color":"","parent":"NGRiMjE5OTNjNDJi","sort":2500000}
+{"_id":"NGNmYmRkM2RlNmMw","name":"Orcs","flags":{},"type":"Actor","color":"","parent":"MWNmYzVmZWY3MWQ0","sort":7200000}
+{"_id":"NGRiMjE5OTNjNDJi","name":"Capítulo 1: Folhetos de Jogador","flags":{},"type":"JournalEntry","color":"","parent":"OTA2NjM5NDZmZDI0","sort":2300000}
+{"_id":"NTFmMDM4ODBhNWEy","name":"Fey","flags":{},"type":"Actor","color":"","parent":"Y2RmOTA1ODVmZjBm","sort":100000}
+{"_id":"NTJhMzQ5ZjAxZWY1","name":"Localizações Porto Nyanzaru","flags":{},"type":"Actor","color":"","parent":"YjQ0M2Y5ZDNmYTVi","sort":2100000}
+{"_id":"NTdkODliYWViMTg3","name":"Map","flags":{},"type":"JournalEntry","color":"","parent":"YjVkY2UxOGE4YzBk","sort":4300000}
+{"_id":"NWZjYzY2OWVlNDAy","name":"Items","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1200000}
+{"_id":"NjExMjdkMTQwNjVh","name":"Decks","flags":{},"type":"Item","color":"","parent":null,"sort":9200000}
+{"_id":"NjYxZmUzZWRjOTQx","name":"Acererak's Warnings","flags":{},"type":"JournalEntry","color":"","parent":"YjVkY2UxOGE4YzBk","sort":4700000}
+{"_id":"NjZjNTUyYjZlZWE1","name":"Apêndice B: Encontros Aleatórios","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":5100000}
+{"_id":"Njg2MmMzNWQ2YzRh","name":"Capítulo 5: Túmulo dos Nove Deuses","flags":{},"type":"Actor","color":"","parent":null,"sort":4100000}
+{"_id":"NmE1NDY0ZWM0OWE3","name":"Capítulo 0: Mansão de Syndra Silvane","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1700000}
+{"_id":"NmJkYzBkMDIyZWM5","name":"Apendice A: Backgrounds","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":5000000}
+{"_id":"NzA5N2I2YTJmNmYy","name":"15","flags":{},"type":"Actor","color":"","parent":"Y2RmOTA1ODVmZjBm","sort":500000}
+{"_id":"Nzc4ZDlkYzMwZWVj","name":"Potions","flags":{},"type":"JournalEntry","color":"","parent":"YzA4NTAwMTA0NmQ0","sort":5400000}
+{"_id":"NzhjMzJlNGQ1NmZk","name":"Archived Handouts","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":8900000}
+{"_id":"ODM3ZjE5ODk5MzBh","name":"Goblins (Batiri)","flags":{},"type":"Actor","color":"","parent":"MWNmYzVmZWY3MWQ0","sort":6800000}
+{"_id":"ODMyMjRkYmI3NGRj","name":"Decks","flags":{},"type":"RollTable","color":"","parent":null,"sort":9100000}
+{"_id":"ODk5ZGI3MmI5OGEz","name":"Hmmm Wild Shapes","flags":{},"type":"Actor","color":"","parent":"MDJmMDUyYTA5NGJh","sort":8400000}
+{"_id":"OGIyNTU4ZTBkNGJl","name":"Erevan","flags":{},"type":"Actor","color":"","parent":"ZDI1ZjM0MmRkMDQ5","sort":8200000}
+{"_id":"OGM0OThkMzQxMmIx","name":"COMEÇA AQUI","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1600000}
+{"_id":"OTA2NjM5NDZmZDI0","name":"Capítulo 1: Porto Nyanzaru","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2000000}
+{"_id":"OTAxODJiNzM1ZDRm","name":"Kobolds","flags":{},"type":"Actor","color":"","parent":"MWNmYzVmZWY3MWQ0","sort":7000000}
+{"_id":"OTBhNzJiZThjOTdi","name":"Coisas para fazer","flags":{},"type":"JournalEntry","color":"","parent":"OTA2NjM5NDZmZDI0","sort":2200000}
+{"_id":"OTNkMTJiNjdjM2My","name":"House Rules","flags":{},"type":"JournalEntry","color":"","parent":"MDY0Mjc4MzgxMDIy","sort":5900000}
+{"_id":"OTc0NTRjMDA5MzRh","name":"Map","flags":{},"type":"Actor","color":"","parent":"ZGFiNzUzMjY1M2E5","sort":4300000}
+{"_id":"OTk3M2UzYmE1NTgy","name":"Chapter 3: Player Handouts","flags":{},"type":"JournalEntry","color":"","parent":"MDI4MDIzMzIxZTY0","sort":3600000}
+{"_id":"OWJiYmU0MzZiNWFi","name":"Capítulo 5: Túmulo dos Nove Deuses","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":4100000}
+{"_id":"OWQ2ZWZjZjE2ODBi","name":"Humanoid","flags":{},"type":"Actor","color":"","parent":"Y2RmOTA1ODVmZjBm","sort":300000}
+{"_id":"OWU0MTFkMzhjYzAz","name":"Mephits","flags":{},"type":"Actor","color":"","parent":"MWNmYzVmZWY3MWQ0","sort":7100000}
+{"_id":"OWZmNmJkNDhiYmY0","name":"Creatures & Monsters","flags":{},"type":"JournalEntry","color":"","parent":"ZmM3ZWQxNGM5MTZj","sort":5600000}
+{"_id":"Y2RmOTA1ODVmZjBm","name":"Monsters","flags":{},"type":"Actor","color":"","parent":null,"sort":100000}
+{"_id":"Y2UyZTRiYmIzZmQ1","name":"Rollable Tables","flags":{},"type":"RollTable","color":"","parent":null,"sort":9000000}
+{"_id":"YTc5MzE4YTU1MzRj","name":"Biroliro","flags":{},"type":"Actor","color":"","parent":"ZDI1ZjM0MmRkMDQ5","sort":8100000}
+{"_id":"YWFmNWNmZWU2ZTk3","name":"Playing Cards","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":9300000}
+{"_id":"YjE1YmZmOWQ3ZGJl","name":"Trickster Gods of Omu Handouts","flags":{},"type":"JournalEntry","color":"","parent":"YjVkY2UxOGE4YzBk","sort":4600000}
+{"_id":"YjMzNDMzMzdhZGMw","name":"Misc Creatures","flags":{},"type":"Actor","color":"","parent":"MWNmYzVmZWY3MWQ0","sort":7500000}
+{"_id":"YjNhZjA1ODEzYjc3","name":"Supplemental Rules","flags":{},"type":"JournalEntry","color":"","parent":"MDY0Mjc4MzgxMDIy","sort":6100000}
+{"_id":"YjQ0M2Y5ZDNmYTVi","name":"Capítulo 1: Porto Nyanzaru","flags":{},"type":"Actor","color":"","parent":null,"sort":2000000}
+{"_id":"YjVkY2UxOGE4YzBk","name":"Chapter 5: Player Handouts","flags":{},"type":"JournalEntry","color":"","parent":"OWJiYmU0MzZiNWFi","sort":4200000}
+{"_id":"Yjg1NmI2MDg1N2Q3","name":"Beast","flags":{},"type":"Actor","color":"","parent":"Y2RmOTA1ODVmZjBm","sort":900000}
+{"_id":"YmE2NDJhNjhkMTdi","name":"Perosonagens do Mestre (PDM)","flags":{},"type":"Actor","color":"","parent":null,"sort":7700000}
+{"_id":"YmMxMTZmODZmZmQz","name":"Grung","flags":{},"type":"Actor","color":"","parent":"MWNmYzVmZWY3MWQ0","sort":6900000}
+{"_id":"YmRkOTkxNjAzNmQz","name":"Fort Beluarian Guides","flags":{},"type":"JournalEntry","color":"","parent":"MWFmMzcwYmJkMGNj","sort":2900000}
+{"_id":"YmU5M2E2MGVmNjg4","name":"1/2","flags":{},"type":"Actor","color":"","parent":"Y2RmOTA1ODVmZjBm","sort":800000}
+{"_id":"YzA4NTAwMTA0NmQ0","name":"Itens Mágicos","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":5300000}
+{"_id":"YzQ5ODMxMTNmZmE4","name":"13. Amphitheater","flags":{},"type":"JournalEntry","color":"","parent":"MDI4MDIzMzIxZTY0","sort":3400000}
+{"_id":"YzUzZDFlMGY5YjNl","name":"Capítulo 3: Moradores da cidade proibida","flags":{},"type":"Actor","color":"","parent":null,"sort":3000000}
+{"_id":"ZDI1ZjM0MmRkMDQ5","name":"Personagens de Jogador (PDJ)","flags":{},"type":"Actor","color":"","parent":null,"sort":7800000}
+{"_id":"ZDM3MDU4YWM0MGI3","name":"1/4","flags":{},"type":"Actor","color":"","parent":"Y2RmOTA1ODVmZjBm","sort":600000}
+{"_id":"ZDUyMjlhMWVlZDNm","name":"Misc Humanoids","flags":{},"type":"Actor","color":"","parent":"MWNmYzVmZWY3MWQ0","sort":7600000}
+{"_id":"ZDY1MWU1NjQzNzll","name":"Chapter 4: Player Handouts","flags":{},"type":"JournalEntry","color":"","parent":"NDc2Yjg0MTMwNjVj","sort":4000000}
+{"_id":"ZDc4YzkwN2E4MjJj","name":"Optional Roll20 Random Encounter Macros","flags":{},"type":"JournalEntry","color":"","parent":"MDY0Mjc4MzgxMDIy","sort":6200000}
+{"_id":"ZDdlOTVhOTRhYmIz","name":"14","flags":{},"type":"JournalEntry","color":"","parent":"NDFiNjNiMDk0Njc1","sort":400000}
+{"_id":"ZDhjNTk3ZTM2YWEz","name":"Krung'Krung-Krung'","flags":{},"type":"Actor","color":"","parent":"ZDI1ZjM0MmRkMDQ5","sort":8500000}
+{"_id":"ZDkyMTNiYTNjYzlh","name":"Guias de Porto Nyanzaru","flags":{},"type":"JournalEntry","color":"","parent":"NmE1NDY0ZWM0OWE3","sort":1800000}
+{"_id":"ZGExYTBlNDBjYTEx","name":"16. Papazotl's Shire","flags":{},"type":"JournalEntry","color":"","parent":"MDI4MDIzMzIxZTY0","sort":3300000}
+{"_id":"ZGFiNzUzMjY1M2E5","name":"Chapter 5: Player Handouts","flags":{},"type":"Actor","color":"","parent":"Njg2MmMzNWQ2YzRh","sort":4200000}
+{"_id":"ZGI2NzQ4NDg2ODEw","name":"Luz","flags":{},"type":"Actor","color":"","parent":null,"sort":1500000}
+{"_id":"ZGZlMTM3NGRjMDMz","name":"Navios","flags":{},"type":"Actor","color":"","parent":"MWNmYzVmZWY3MWQ0","sort":6600000}
+{"_id":"ZTNmN2EyMTJlNDg2","name":"Apêndice C: Flora e Fauna","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":5200000}
+{"_id":"ZWI1MzIzNWM1NTFm","name":"Personagens de Jogador (PDJ)","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":7800000}
+{"_id":"ZjEwYmNlMzQ1YWVm","name":"Named NPCs","flags":{},"type":"JournalEntry","color":"","parent":"ZmM3ZWQxNGM5MTZj","sort":5700000}
+{"_id":"ZjdiOTA0NjgwNGI2","name":"PDJs (RESERVAS)","flags":{},"type":"Actor","color":"","parent":"ZDI1ZjM0MmRkMDQ5","sort":7900000}
+{"_id":"Zjk1ZmI2M2UxZDc0","name":"Melee Weapon","flags":{},"type":"JournalEntry","color":"","parent":"NWZjYzY2OWVlNDAy","sort":1300000}
+{"_id":"ZmEzNGM2N2MwOWRm","name":"Animal Form","flags":{},"type":"JournalEntry","color":"","parent":"YjVkY2UxOGE4YzBk","sort":4500000}
+{"_id":"ZmM3ZWQxNGM5MTZj","name":"Players Handouts","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":5500000}
+{"_id":"ZmQ5ZWRjMDQ0ZWI0","name":"Wondrous Item","flags":{},"type":"JournalEntry","color":"","parent":"NWZjYzY2OWVlNDAy","sort":1400000}

@@ -1,0 +1,39 @@
+{
+  "name": "tumba-da-aniquilacao",
+  "title": "Tumba da Aniquilação",
+  "description": "<p>Ouse desafiar a morte nesta aventura para o maior jogo de RPG do mundo. A conversa nas ruas e tavernas tem sido sobre a chamada maldi&ccedil;&atilde;o da morte: uma doen&ccedil;a devastadora que aflige todos os que j&aacute; foram ressuscitados. As v&iacute;timas ficam mais magras e fracas a cada dia, lenta mas constantemente deslizando em dire&ccedil;&atilde;o &agrave; morte que antes negavam.</p>\n<p>Quando eles finalmente sucumbem, eles n&atilde;o podem ser levantados - e nem qualquer outra pessoa, independentemente de j&aacute; terem recebido esse milagre no passado. Templos e estudiosos da magia divina n&atilde;o sabem explicar uma maldi&ccedil;&atilde;o que afetou toda a regi&atilde;o e, possivelmente, o mundo inteiro.</p>\n<p>A causa &eacute; um artefato necrom&acirc;ntico chamado Soulmonger, que est&aacute; localizado em algum lugar de Chult, uma pen&iacute;nsula misteriosa ao sul, cercada por montanhas e repleta de florestas tropicais.&nbsp;</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [
+    "templates/roll20-templates.js"
+  ],
+  "esmodules": [],
+  "styles": [
+    "templates/roll20-templates.css"
+  ],
+  "packs": [],
+  "languages": [],
+  "authors": [
+    "R20Converter"
+  ],
+  "keywords": [
+    "R20Converter"
+  ],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "id": "tumba-da-aniquilacao",
+  "system": "dnd5e",
+  "coreVersion": "0.6.6",
+  "systemVersion": 0.96,
+  "unavailable": false,
+  "availability": 0,
+  "background": "https://vignette.wikia.nocookie.net/forgottenrealms/images/c/c7/Tomb_of_the_Nine_Gods_entrance.jpg/revision/latest?cb=20180501113453",
+  "nextSession": "2020-08-30T20:00"
+}
